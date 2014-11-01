@@ -4,7 +4,7 @@
   <parent>
     <groupId>com.github.jknack</groupId>
     <artifactId>handlebars.java</artifactId>
-    <version>1.3.2</version>
+    <version>1.3.2-onshape</version>
   </parent>
 
   <modelVersion>4.0.0</modelVersion>
@@ -115,25 +115,25 @@
     <dependency>
       <groupId>com.github.jknack</groupId>
       <artifactId>handlebars</artifactId>
-      <version>${project.version}</version>
+      <version>1.3.2</version>
     </dependency>
 
     <dependency>
       <groupId>com.github.jknack</groupId>
       <artifactId>handlebars-jackson2</artifactId>
-      <version>${project.version}</version>
+      <version>1.3.2</version>
     </dependency>
 
     <dependency>
       <groupId>com.github.jknack</groupId>
       <artifactId>handlebars-markdown</artifactId>
-      <version>${project.version}</version>
+      <version>1.3.2</version>
     </dependency>
 
     <dependency>
       <groupId>com.github.jknack</groupId>
       <artifactId>handlebars-humanize</artifactId>
-      <version>${project.version}</version>
+      <version>1.3.2</version>
     </dependency>
 
     <dependency>
